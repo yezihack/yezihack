@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yezihack&theme=onedark&show_icons=true)](https://www.sgfoot.com)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&theme=cobalt&layout=compact&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&theme=cobalt&layout=compact&show_icons=true&hide=javascript,php,html)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&layout=compact1&hide=javascript,php,html)](https://www.sgfoot.com)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=e)](https://github.com/yezihack/e)
