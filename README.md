@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me:
-  - . 微信公众号：空树之空
-  - . [空树之空的博客](https://www.sgfoot.com)
+  - 微信公众号：空树之空
+  - [空树之空的博客](https://www.sgfoot.com)
 
 <!--
 **yezihack/yezihack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
