@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yezihack&theme=onedark&show_icons=true)](https://www.sgfoot.com)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&theme=cobalt&layout=compact&show_icons=true&hide=javascript,html,php)](https://www.sgfoot.com)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&theme=cobalt&layout=compact&show_icons=true&hide=javascript,html,php,Smarty)](https://www.sgfoot.com)
 <img src="https://github-profile-trophy.vercel.app/?username=yezihack&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: 25px; margin-bottom: 20px;" />
 -->
 
