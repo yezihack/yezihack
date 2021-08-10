@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=yezihack&show_icons=true&theme=dark" alt="logo" align="left" height="160" width="400" 
      style="float:left;margin-top: 25px; margin-bottom: 50px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&theme=dark&layout=compact&show_icons=true&hide=php,javascript,html" alt="logo" align="left" height="160" width="400"  style="margin-top: 25px; margin-bottom: 50px;float:left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yezihack&theme=dark&layout=compact&show_icons=true&hide=php,javascript,html,scss,css,smarty" alt="logo" align="left" height="160" width="400"  style="margin-top: 25px; margin-bottom: 50px;float:left" />
 
 
 ### 😄 推荐的库
