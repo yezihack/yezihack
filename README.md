@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 ### 😄 推荐的库
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=busybox)](https://github.com/yezihack/busybox)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=kube-box)](https://github.com/yezihack/kube-box)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=algo)](https://github.com/yezihack/algo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=go-mygen)](https://github.com/yezihack/go-mygen)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=kube-box)](https://github.com/yezihack/kube-box)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yezihack&repo=k1s)](https://github.com/yezihack/k1s)
 
 
